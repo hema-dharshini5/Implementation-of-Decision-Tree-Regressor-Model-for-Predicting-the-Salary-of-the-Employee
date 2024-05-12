@@ -68,21 +68,27 @@ dt.predict([[5,6]])
 data.head()
 
 ![ml 7 1](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147117728/06d30639-ce5b-4179-91a2-5fd89b55cc0e)
+
 data.info()
 
 ![ml ep 7 2](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147117728/b7659271-4756-46d1-9c2f-78fec8155e1f)
+
 Isnull() & sum() function
 
 ![ml ep 7 3](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147117728/d8df742a-98c3-4b70-9c51-bdb594f675b1)
+
 data.head() for position
 
 ![ml ep 7 4](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147117728/eaab359d-2507-4a53-bb4b-03dfb2095926)
+
 MSE value
 
 ![ml ep 7 5](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147117728/8ec7c229-df4f-4482-971c-0171d02bed1c)
+
 R2 value
 
 ![ml ep 7 6](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147117728/a9fa017c-a877-4b49-9b65-06328732ce8c)
+
 Prediction value
 
 
